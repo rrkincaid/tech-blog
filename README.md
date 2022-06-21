@@ -71,7 +71,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Heroku Deployment
 
-    ✩
+    ✩ https://frozen-tundra-76274.herokuapp.com/
 
 ## Gitignore
 
