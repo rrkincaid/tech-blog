@@ -67,7 +67,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ## Github Repository
 
     ✩ https://github.com/rrkincaid/tech-blog
-    ✩
+    ✩ https://rrkincaid.github.io/tech-blog/
 
 ## Heroku Deployment
 
